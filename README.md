@@ -4,7 +4,7 @@
 
 #### I am a Computer Science PhD aspirant, and my research presently focuses on Remote Sensing Datasets, Climate Change, Ethics and Machine Learning. 
 
-#### I am currently working as a Research Scholar at University of California, Berkeley with Dr. Joshua Dimon. I am also working as a ML Engineer with the AI for Good Foundation on their Climate Trendscanner Project, where I am creating a Climate content modeling pipeline using NLP models such as BERT and LDA. 
+#### I am currently working as a Research Scientist at University of California, Berkeley with Dr. Joshua Dimon. I am also working as a ML Engineer with the AI for Good Foundation on their Climate Trendscanner Project, where I am creating a Climate content modeling pipeline using NLP models such as BERT and LDA. 
 
 #### Prior to this, I was a Researcher at UC Berkeley under Dr. Thomas Azwell, where I modeled wildfire risk in the state of California using AI/ML to understand and preemptively predict the spread of wildfires. 
 
